@@ -1,7 +1,8 @@
 # my-portfolio
-Hi, I'm Edgar Guerrero and this is my portfolio, here you can find practices in python.
+Hi, I'm Edgar Guerrero and this is my portfolio, here you can find my practices in python.
+Hola, Soy Edgar Guerrero y este es mi portafolio, aqui puedes encontrar mis practicas en python.
 
-## Proyectos 
+## Projects / Proyectos
 
-### Proyecto 1: Nombre del Proyecto Descripción breve del proyecto. 
-[Repositorio del Proyecto 1](https://github.com/EdgarG93/Calculadora.git)
+### Project 1: Calculator
+[Project 1 repository](https://github.com/EdgarG93/Calculadora.git)
