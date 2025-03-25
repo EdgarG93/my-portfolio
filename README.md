@@ -11,3 +11,6 @@ Hi, I'm Edgar Guerrero and this is my portfolio, here you can find my practices 
 
 ### Project 3: Vowel counter
 [Project 3 repository](https://github.com/EdgarG93/Vowel_counter.git)
+
+### Project 4: Camel to case
+[Project 4 repository](https://github.com/EdgarG93/CameltoCase.git)
